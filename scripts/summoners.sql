@@ -1,0 +1,14 @@
+--WRITTEN BY:REEGAN BEVERIDGE
+--DATE: SEPT 06, 2016
+--REMARKS: 
+
+DROP TABLE IF EXISTS users CASCADE;
+
+CREATE TABLE users(
+	user_id
+
+
+);
+
+
+ ALTER TABLE users OWNER TO group11_admin;

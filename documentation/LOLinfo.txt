@@ -1,0 +1,25 @@
+Ranked Stats
+MatchList(matchs going on now)
+	- Determine most played champions at a live moment.
+lolStatus (is it up or down)
+*champion Mastery
+	- total available or top by number with modifiers
+currentGame(inputsummoner to retrieve current game)
+"Leagues"(?)(appears to be info on teams & ranked)	
+
+
+
+
+https://developer.riotgames.com/docs/static-data
+(assets/iamges)
+
+https://developer.riotgames.com/docs/item-sets
+-create item sets and export them.
+
+https://developer.riotgames.com/docs/spectating-games
+-put a user in a spectate match
+
+
+MORE API 
+
+http://api.champion.gg/
